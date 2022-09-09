@@ -3,13 +3,6 @@
 
 > https://techieabhay.netlify.app
 
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://techieabhay.netlify.app" target="_blank"><img src="/home/techieabhay/Documents/Code-with-techie/Python3/OpenCV/Personal-Portfolio-Tutorial--main/PersonalPortfolio || Abhay Nautiyal/images/example.jpeg">
-  </a>
-  </kbd>
-</p>
 
 :star: Star me on GitHub — it helps!
 
