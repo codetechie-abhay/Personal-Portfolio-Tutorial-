@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://techieabhay.netlify.app
+> https://0xtech1e.netlify.app
 
 
 :star: Star me on GitHub — it helps!
@@ -32,7 +32,7 @@
 ✔️ Contact\
 ✔️ Resume
 
-To view a live example, **[click here](https://techieabhay.netlify.app)**
+To view a live example, **[click here](https://0xtech1e.netlify.app)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
